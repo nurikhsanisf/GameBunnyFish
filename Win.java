@@ -26,5 +26,6 @@ public class Win extends BunnyFishWorld
     {
         PlayAgainLevel1 playAgainLevel1 = new PlayAgainLevel1();
         addObject(playAgainLevel1,785,506);
+        playAgainLevel1.setLocation(783,331);
     }
 }

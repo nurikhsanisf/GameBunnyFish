@@ -30,6 +30,14 @@ public class Menu extends BunnyFishWorld
         addObject(about,475,515);
         Tutorial tutorial = new Tutorial();
         addObject(tutorial,785,514);
+        tutorial.setLocation(803,325);
+        about.setLocation(521,334);
+        play.setLocation(174,354);
+        tutorial.setLocation(883,347);
+        about.setLocation(526,327);
+        tutorial.setLocation(779,321);
+        about.setLocation(428,350);
+        tutorial.setLocation(780,348);
     }
     
     public void started(){

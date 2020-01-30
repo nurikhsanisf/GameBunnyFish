@@ -154,6 +154,15 @@ public class Level3 extends BunnyFishWorld
         Buble buble = new Buble();
         addObject(buble,789,334);
         fishJahat3.setLocation(76,369);
+        fish34.setLocation(232,383);
+        fishJahat3.setLocation(112,313);
+        ikanBeracun2.setLocation(559,305);
+        fish32.setLocation(634,372);
+        fish14.setLocation(536,391);
+        fish3.setLocation(355,391);
+        fish2.setLocation(791,376);
+        fish2.setLocation(720,394);
+        fishJahat3.setLocation(85,351);
     }
 
     public void started(){

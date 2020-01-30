@@ -159,7 +159,7 @@ public class FishJahat3 extends Player
             Greenfoot.setWorld(loseLevel3);
         }
         
-        if(jumlahFishDimakan >=1)
+        if(jumlahFishDimakan >=10)
         {
             Level3 musicNextStep = (Level3)getWorld();
             musicNextStep.musicNextStep();

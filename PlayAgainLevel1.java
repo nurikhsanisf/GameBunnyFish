@@ -16,7 +16,7 @@ public class PlayAgainLevel1 extends PlayAgain
     {
         if(Greenfoot.mouseClicked(this)){
             World Start = getWorld();
-            Start = new Level1();
+            Start = new Menu();
             Start.started();
             Greenfoot.setWorld(Start);
         }

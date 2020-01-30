@@ -26,5 +26,6 @@ public class BgAbout extends BunnyFishWorld
     {
         Back back = new Back();
         addObject(back,825,526);
+        back.setLocation(818,360);
     }
 }

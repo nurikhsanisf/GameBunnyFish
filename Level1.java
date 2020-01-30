@@ -87,6 +87,32 @@ public class Level1 extends BunnyFishWorld
         removeObject(buble);
         Buble buble2 = new Buble();
         addObject(buble2,729,320);
+        fish22.setLocation(437,343);
+        fish16.setLocation(401,238);
+        fish23.setLocation(339,366);
+        fish1.setLocation(230,260);
+        fish14.setLocation(247,322);
+        fish15.setLocation(597,180);
+        fish17.setLocation(710,332);
+        fish33.setLocation(766,386);
+        fish33.setLocation(668,398);
+        fish33.setLocation(1202,287);
+        fish33.setLocation(701,432);
+        fish33.setLocation(706,435);
+        fish33.setLocation(706,435);
+        fish33.setLocation(706,435);
+        fish33.setLocation(706,435);
+        fish33.setLocation(706,435);
+        fish33.setLocation(549,402);
+        buble2.setLocation(1107,213);
+        fish33.setLocation(1287,269);
+        fish33.setLocation(684,429);
+        fish33.setLocation(684,429);
+        fish33.setLocation(684,429);
+        fish33.setLocation(696,430);
+        fish33.setLocation(729,398);
+        fish12.setLocation(165,387);
+        fish33.setLocation(736,386);
     }
     
     public void started(){

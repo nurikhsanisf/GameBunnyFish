@@ -28,5 +28,11 @@ public class LoseLevel1 extends Lose
         addObject(playAgainLevel1,809,507);
         TextGameOver textGameOver = new TextGameOver();
         addObject(textGameOver,476,176);
+        textGameOver.setLocation(507,136);
+        playAgainLevel1.setLocation(805,317);
+        playAgainLevel1.setLocation(800,359);
+        textGameOver.setLocation(703,198);
+        textGameOver.setLocation(287,119);
+        textGameOver.setLocation(528,116);
     }
 }

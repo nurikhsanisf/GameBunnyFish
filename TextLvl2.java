@@ -14,7 +14,7 @@ public class TextLvl2 extends Tulisan
      */
     public void act() 
     {
-        if(Greenfoot.isKeyDown("enter"))
+        if(Greenfoot.mouseClicked(this))
         {
             Level3 worldbaru = new Level3();
             worldbaru.started();
