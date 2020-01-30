@@ -26,5 +26,12 @@ public class MoveLevel2 extends MoveLevel
     {
         TextLvl1 textLvl1 = new TextLvl1();
         addObject(textLvl1,489,381);
+        textLvl1.setLocation(539,243);
+        textLvl1.setLocation(548,229);
+        textLvl1.setLocation(510,226);
+        textLvl1.setLocation(563,260);
+        textLvl1.setLocation(599,283);
+        textLvl1.setLocation(585,242);
+        textLvl1.setLocation(546,220);
     }
 }

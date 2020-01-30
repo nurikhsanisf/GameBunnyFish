@@ -28,5 +28,6 @@ public class LoseLevel3 extends Lose
         addObject(textGameOver,470,172);
         PlayAgainLevel3 playAgainLevel3 = new PlayAgainLevel3();
         addObject(playAgainLevel3,759,487);
+        playAgainLevel3.setLocation(810,331);
     }
 }

@@ -120,6 +120,10 @@ public class Level2 extends BunnyFishWorld
         buble.setLocation(839,126);
         buble.setLocation(881,526);
         fishJahat25.setLocation(861,111);
+        fish24.setLocation(744,391);
+        fish2.setLocation(500,376);
+        crab.setLocation(268,397);
+        ikanBeracun3.setLocation(211,319);
     }
     
     public void started(){

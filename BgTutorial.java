@@ -26,5 +26,6 @@ public class BgTutorial extends BunnyFishWorld
     {
         Back2 back2 = new Back2();
         addObject(back2,773,509);
+        back2.setLocation(828,348);
     }
 }
